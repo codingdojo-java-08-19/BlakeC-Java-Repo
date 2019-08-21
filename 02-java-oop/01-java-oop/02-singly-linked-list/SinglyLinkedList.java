@@ -43,31 +43,3 @@ public class SinglyLinkedList {
         }
         System.out.println(runner.value);
     }
-
-    // Optional Methods
-    // public find(int value){
-    // Node runner = this.head;
-    // if(runner.next.value == value){
-    // return runner.value;
-    // }
-    // while(runner.next != null){
-    // if(runner.next.value == value){
-    // return runner.value;
-    // }
-    // runner = runner.next;
-    // }
-    // }
-
-    // public void removeAt(int value){
-    // Node runner = head;
-    // if(value == 0){
-    // if(runner.next){
-    // head = runner.next;
-    // }
-    // else{
-    // head = null;
-    // }
-    // }
-    // while(
-    // }
-}
